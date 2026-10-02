@@ -10,9 +10,9 @@ Build an extensible AI Growth Studio plugin that helps home service businesses d
 - [x] Skill installed locally in Codex.
 - [x] Editable report template and styled preview produced.
 - [x] Repository organized for multiple skills.
-- [x] Starter portable plugin manifest added.
+- [x] Portable manifest, listing metadata, icon, and repository marketplace added.
 - [ ] Full audit workflow behavior validated.
-- [ ] Local plugin installation validated.
+- [x] Local plugin installation and packaged resources validated.
 - [ ] Public directory listing prepared and submitted.
 
 The checked items describe preparation, not a completed production release.

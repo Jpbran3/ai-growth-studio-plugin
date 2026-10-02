@@ -1,0 +1,20 @@
+{
+  "name": "ai-growth-studio-marketplace",
+  "interface": {
+    "displayName": "AI Growth Studio"
+  },
+  "plugins": [
+    {
+      "name": "ai-growth-studio",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
