@@ -23,3 +23,7 @@ Validated on October 2, 2026.
 - Verified publishing identity and any applicable policy attestations.
 
 These checks establish package integrity and selected arithmetic behavior. They do not establish public-directory approval or complete audit behavior.
+
+## Submission draft update — 0.2.1
+
+Version 0.2.0 uploaded successfully to the OpenAI dashboard. Automated checks requested an accessible privacy policy. Version 0.2.1 adds a notice describing the existing skills-only data flows and its public URL. Public submission and review remain pending.

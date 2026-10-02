@@ -2,7 +2,7 @@
 
 Reusable skills for home service businesses, starting with a conversational revenue leak audit. This repository is designed to grow into a plugin containing multiple focused skills.
 
-**Status:** development package, version 0.2.0. The revenue audit skill has been installed and used to generate a report template locally. Local plugin installation, skill structure, installed resources, and selected calculation behavior have been verified. Full audit behavior and public directory submission still need validation. Publishing this repository does not publish a listing in ChatGPT or Codex.
+**Status:** development package, version 0.2.1. The revenue audit skill has been installed and used to generate a report template locally. Local plugin installation, skill structure, installed resources, and selected calculation behavior have been verified. Full audit behavior and public directory submission still need validation. Publishing this repository does not publish a listing in ChatGPT or Codex.
 
 ## Included today
 
