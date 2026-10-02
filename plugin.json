@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ai-growth-studio",
+  "version": "0.1.0",
+  "description": "Practical growth workflows for home service businesses, starting with a lead-to-job revenue leak audit."
+}
