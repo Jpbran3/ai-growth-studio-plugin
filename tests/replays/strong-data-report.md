@@ -1,12 +1,3 @@
----
-company: "Example Home Services"
-brand_source: "FALLBACK"
-brand_basis: "Owner-specified no-website trade palette"
-brand_font: "Arial, Helvetica, sans-serif"
-brand_color: "#7BAFD4"
-brand_secondary: "#EAF2F8"
----
-
 # Example Home Services
 ## Revenue Leak Audit
 

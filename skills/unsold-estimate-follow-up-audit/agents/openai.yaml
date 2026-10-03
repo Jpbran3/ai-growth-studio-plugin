@@ -1,0 +1,6 @@
+interface:
+  display_name: "Unsold Estimate Audit"
+  short_description: "Find contractor quote and follow-up gaps"
+  default_prompt: "Use $unsold-estimate-follow-up-audit to diagnose unsold quotes and build a practical follow-up plan for my home service business."
+policy:
+  allow_implicit_invocation: true
