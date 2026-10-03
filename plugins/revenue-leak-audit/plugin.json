@@ -1,0 +1,42 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "revenue-leak-audit",
+  "version": "0.1.1",
+  "description": "Diagnose gaps across the home service lead-to-job journey and produce a practical improvement blueprint.",
+  "author": {
+    "name": "AI Growth Studio",
+    "url": "https://www.theaigrowthstudio.com"
+  },
+  "homepage": "https://www.theaigrowthstudio.com/book",
+  "repository": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+  "keywords": [
+    "home-services",
+    "revenue-leak-audit",
+    "business-audit"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Revenue Leak Audit",
+        "shortDescription": "Find lead-to-job gaps",
+        "longDescription": "Diagnose gaps across the home service lead-to-job journey and produce a practical improvement blueprint. For home service owners and teams. Delivers editable company-branded Markdown plus styled HTML, evidence labels and an internally usable implementation blueprint. Matches verified website branding or owner-selected trade palettes. Qualitative findings are valid when data is missing. Conditional financial opportunity is not guaranteed. Plans and drafts only; no live integrations, automatic outreach, calendar changes or monitoring. AI Growth Studio is the developer; optional implementation support is separate from the audit.",
+        "developerName": "AI Growth Studio",
+        "category": "Productivity",
+        "capabilities": [
+          "Find lead-to-job gaps",
+          "Branded Markdown and HTML",
+          "Internal implementation blueprint"
+        ],
+        "websiteURL": "https://www.theaigrowthstudio.com/book",
+        "supportURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/issues",
+        "privacyPolicyURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/blob/main/PRIVACY.md",
+        "defaultPrompt": [
+          "Audit where leads fall through the cracks in my home service business."
+        ],
+        "brandColor": "#E8804F",
+        "composerIcon": "./assets/aigrowthstudio.png",
+        "logo": "./assets/aigrowthstudio.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "maintenance-renewal-audit",
+  "version": "0.1.1",
+  "description": "Separate documented service obligations from optional renewals and diagnose due-date, ownership and fulfillment gaps.",
+  "author": {
+    "name": "AI Growth Studio",
+    "url": "https://www.theaigrowthstudio.com"
+  },
+  "homepage": "https://www.theaigrowthstudio.com/book",
+  "repository": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+  "keywords": [
+    "home-services",
+    "maintenance-renewal-audit",
+    "business-audit"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Maintenance Renewal Audit",
+        "shortDescription": "Plan due service and renewals",
+        "longDescription": "Separate documented service obligations from optional renewals and diagnose due-date, ownership and fulfillment gaps. For home service owners and teams. Delivers editable company-branded Markdown plus styled HTML, evidence labels and an internally usable implementation blueprint. Matches verified website branding or owner-selected trade palettes. Qualitative findings are valid when data is missing. Conditional financial opportunity is not guaranteed. Plans and drafts only; no live integrations, automatic outreach, calendar changes or monitoring. AI Growth Studio is the developer; optional implementation support is separate from the audit.",
+        "developerName": "AI Growth Studio",
+        "category": "Productivity",
+        "capabilities": [
+          "Improve due service and renewals",
+          "Branded Markdown and HTML",
+          "Internal implementation blueprint"
+        ],
+        "websiteURL": "https://www.theaigrowthstudio.com/book",
+        "supportURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/issues",
+        "privacyPolicyURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/blob/main/PRIVACY.md",
+        "defaultPrompt": [
+          "Audit how we track due maintenance visits and expiring service agreements."
+        ],
+        "brandColor": "#E8804F",
+        "composerIcon": "./assets/aigrowthstudio.png",
+        "logo": "./assets/aigrowthstudio.png"
+      }
+    }
+  }
+}

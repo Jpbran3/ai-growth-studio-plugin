@@ -1,0 +1,22 @@
+[
+  {
+    "case": "60 bookings / 50 new leads",
+    "expected_decision": "Reconcile origin cohorts before computing conversion."
+  },
+  {
+    "case": "Zero eligible inquiries",
+    "expected_decision": "Rate undefined; not 0% or 100%."
+  },
+  {
+    "case": "Four quote revisions for one job",
+    "expected_decision": "Count one opportunity; preserve version events separately."
+  },
+  {
+    "case": "Three attribution sources",
+    "expected_decision": "Define attribution rule; no causal claim or triple count."
+  },
+  {
+    "case": "Invoice plus accepted quote totals",
+    "expected_decision": "Do not sum stages as independent revenue."
+  }
+]

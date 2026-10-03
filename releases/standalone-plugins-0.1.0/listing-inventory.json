@@ -1,0 +1,82 @@
+[
+  {
+    "name": "revenue-leak-audit",
+    "display_name": "Revenue Leak Audit",
+    "subtitle": "Find lead-to-job gaps",
+    "local_source": "plugins/revenue-leak-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "missed-call-revenue-calculator",
+    "display_name": "Missed Call Revenue Calculator",
+    "subtitle": "Assess missed-call opportunity",
+    "local_source": "plugins/missed-call-revenue-calculator",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "unsold-estimate-follow-up-audit",
+    "display_name": "Unsold Estimate Audit",
+    "subtitle": "Find quote follow-up gaps",
+    "local_source": "plugins/unsold-estimate-follow-up-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "booking-handoff-audit",
+    "display_name": "Booking & Handoff Audit",
+    "subtitle": "Fix booking and team handoffs",
+    "local_source": "plugins/booking-handoff-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "lead-response-audit",
+    "display_name": "Lead Response Audit",
+    "subtitle": "Find slow or unowned replies",
+    "local_source": "plugins/lead-response-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "customer-reactivation-audit",
+    "display_name": "Customer Reactivation Audit",
+    "subtitle": "Plan due service and renewals",
+    "local_source": "plugins/customer-reactivation-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "maintenance-renewal-audit",
+    "display_name": "Maintenance Renewal Audit",
+    "subtitle": "Plan due service and renewals",
+    "local_source": "plugins/maintenance-renewal-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "review-referral-audit",
+    "display_name": "Review & Referral Audit",
+    "subtitle": "Improve post-job requests",
+    "local_source": "plugins/review-referral-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "capacity-scheduling-audit",
+    "display_name": "Capacity & Scheduling Audit",
+    "subtitle": "Match workload to capacity",
+    "local_source": "plugins/capacity-scheduling-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  },
+  {
+    "name": "conversion-measurement-audit",
+    "display_name": "Conversion Measurement Audit",
+    "subtitle": "Make funnel numbers reliable",
+    "local_source": "plugins/conversion-measurement-audit",
+    "website_status": "awaiting owner URL",
+    "distribution": "not submitted"
+  }
+]

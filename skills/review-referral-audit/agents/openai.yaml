@@ -1,0 +1,6 @@
+interface:
+  display_name: "Review & Referral Audit"
+  short_description: "Improve post-job review and referral handoffs"
+  default_prompt: "Use $review-referral-audit to assess what happens after a completed job to request feedback or handle a referral and create a practical branded report."
+policy:
+  allow_implicit_invocation: true

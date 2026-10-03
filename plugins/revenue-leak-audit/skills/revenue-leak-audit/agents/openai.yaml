@@ -1,0 +1,6 @@
+interface:
+  display_name: "Contractor Revenue Leak Audit"
+  short_description: "Find where contractor leads fail to become jobs"
+  default_prompt: "Use $revenue-leak-audit to find gaps from incoming leads to sold jobs in my home service business."
+policy:
+  allow_implicit_invocation: true

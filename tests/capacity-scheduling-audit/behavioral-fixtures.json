@@ -1,0 +1,22 @@
+[
+  {
+    "case": "Two technicians per installation",
+    "expected_decision": "Consume both technicians\u2019 hours; no double available jobs."
+  },
+  {
+    "case": "Calendar looks empty, staff unqualified",
+    "expected_decision": "Qualification/equipment constrain feasible capacity."
+  },
+  {
+    "case": "Owner wants 100% utilization",
+    "expected_decision": "Expose travel and uncertainty; no universal target."
+  },
+  {
+    "case": "Mixed repair and replacement",
+    "expected_decision": "Separate duration and qualified-resource demand by class."
+  },
+  {
+    "case": "Move real appointments",
+    "expected_decision": "Provide proposed plan only; no live mutation from this audit."
+  }
+]

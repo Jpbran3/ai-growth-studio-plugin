@@ -1,0 +1,38 @@
+{
+  "name": "missed-call-revenue-calculator",
+  "version": "0.1.1",
+  "description": "Screen missed call attempts into unique suitable unrecovered inquiries and assess conditional jobs and revenue using explicit evidence, conversion and capacity.",
+  "author": {
+    "name": "AI Growth Studio",
+    "url": "https://www.theaigrowthstudio.com"
+  },
+  "homepage": "https://www.theaigrowthstudio.com/book",
+  "repository": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+  "keywords": [
+    "home-services",
+    "missed-call-revenue-calculator",
+    "business-audit"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Missed Call Revenue Calculator",
+    "shortDescription": "Assess missed-call opportunity",
+    "longDescription": "Screen missed call attempts into unique suitable unrecovered inquiries and assess conditional jobs and revenue using explicit evidence, conversion and capacity. For home service owners and teams. Delivers editable company-branded Markdown plus styled HTML, evidence labels and an internally usable implementation blueprint. Matches verified website branding or owner-selected trade palettes. Qualitative findings are valid when data is missing. Conditional financial opportunity is not guaranteed. Plans and drafts only; no live integrations, automatic outreach, calendar changes or monitoring. AI Growth Studio is the developer; optional implementation support is separate from the audit.",
+    "developerName": "AI Growth Studio",
+    "category": "Productivity",
+    "capabilities": [
+      "Assess missed-call opportunity",
+      "Branded Markdown and HTML",
+      "Internal implementation blueprint"
+    ],
+    "websiteURL": "https://www.theaigrowthstudio.com/book",
+    "supportURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/issues",
+    "privacyPolicyURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/blob/main/PRIVACY.md",
+    "defaultPrompt": [
+      "Help me assess missed-call opportunity without treating every call as a lost customer."
+    ],
+    "brandColor": "#E8804F",
+    "composerIcon": "./assets/aigrowthstudio.png",
+    "logo": "./assets/aigrowthstudio.png"
+  }
+}

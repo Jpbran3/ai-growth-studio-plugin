@@ -1,0 +1,38 @@
+{
+  "name": "unsold-estimate-follow-up-audit",
+  "version": "0.1.1",
+  "description": "Triage delivered estimates, distinguish normal pending decisions from suitable unresolved opportunities and diagnose why quotes fail to become completed jobs.",
+  "author": {
+    "name": "AI Growth Studio",
+    "url": "https://www.theaigrowthstudio.com"
+  },
+  "homepage": "https://www.theaigrowthstudio.com/book",
+  "repository": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+  "keywords": [
+    "home-services",
+    "unsold-estimate-follow-up-audit",
+    "business-audit"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Unsold Estimate Audit",
+    "shortDescription": "Find quote follow-up gaps",
+    "longDescription": "Triage delivered estimates, distinguish normal pending decisions from suitable unresolved opportunities and diagnose why quotes fail to become completed jobs. For home service owners and teams. Delivers editable company-branded Markdown plus styled HTML, evidence labels and an internally usable implementation blueprint. Matches verified website branding or owner-selected trade palettes. Qualitative findings are valid when data is missing. Conditional financial opportunity is not guaranteed. Plans and drafts only; no live integrations, automatic outreach, calendar changes or monitoring. AI Growth Studio is the developer; optional implementation support is separate from the audit.",
+    "developerName": "AI Growth Studio",
+    "category": "Productivity",
+    "capabilities": [
+      "Find quote follow-up gaps",
+      "Branded Markdown and HTML",
+      "Internal implementation blueprint"
+    ],
+    "websiteURL": "https://www.theaigrowthstudio.com/book",
+    "supportURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/issues",
+    "privacyPolicyURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/blob/main/PRIVACY.md",
+    "defaultPrompt": [
+      "Audit our unsold estimates and build an appropriate follow-up process."
+    ],
+    "brandColor": "#E8804F",
+    "composerIcon": "./assets/aigrowthstudio.png",
+    "logo": "./assets/aigrowthstudio.png"
+  }
+}

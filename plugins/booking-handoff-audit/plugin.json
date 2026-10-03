@@ -1,0 +1,42 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "booking-handoff-audit",
+  "version": "0.1.1",
+  "description": "Diagnose qualification, feasible slots, confirmation and office/dispatch/field handoffs before confirmed appointments.",
+  "author": {
+    "name": "AI Growth Studio",
+    "url": "https://www.theaigrowthstudio.com"
+  },
+  "homepage": "https://www.theaigrowthstudio.com/book",
+  "repository": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+  "keywords": [
+    "home-services",
+    "booking-handoff-audit",
+    "business-audit"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Booking & Handoff Audit",
+        "shortDescription": "Fix booking and team handoffs",
+        "longDescription": "Diagnose qualification, feasible slots, confirmation and office/dispatch/field handoffs before confirmed appointments. For home service owners and teams. Delivers editable company-branded Markdown plus styled HTML, evidence labels and an internally usable implementation blueprint. Matches verified website branding or owner-selected trade palettes. Qualitative findings are valid when data is missing. Conditional financial opportunity is not guaranteed. Plans and drafts only; no live integrations, automatic outreach, calendar changes or monitoring. AI Growth Studio is the developer; optional implementation support is separate from the audit.",
+        "developerName": "AI Growth Studio",
+        "category": "Productivity",
+        "capabilities": [
+          "Fix booking and team handoffs",
+          "Branded Markdown and HTML",
+          "Internal implementation blueprint"
+        ],
+        "websiteURL": "https://www.theaigrowthstudio.com/book",
+        "supportURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/issues",
+        "privacyPolicyURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/blob/main/PRIVACY.md",
+        "defaultPrompt": [
+          "Find why suitable inquiries stall before confirmed appointments."
+        ],
+        "brandColor": "#E8804F",
+        "composerIcon": "./assets/aigrowthstudio.png",
+        "logo": "./assets/aigrowthstudio.png"
+      }
+    }
+  }
+}

@@ -15,6 +15,126 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "revenue-leak-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/revenue-leak-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "missed-call-revenue-calculator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/missed-call-revenue-calculator"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "unsold-estimate-follow-up-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/unsold-estimate-follow-up-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "booking-handoff-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/booking-handoff-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "lead-response-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/lead-response-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "customer-reactivation-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/customer-reactivation-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "maintenance-renewal-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/maintenance-renewal-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "review-referral-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/review-referral-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "capacity-scheduling-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/capacity-scheduling-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "conversion-measurement-audit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/conversion-measurement-audit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Booking & Handoff Audit"
+  short_description: "Fix contractor booking and team handoff gaps"
+  default_prompt: "Use $booking-handoff-audit to find where suitable inquiries stall before confirmed appointments and build a practical handoff process."
+policy:
+  allow_implicit_invocation: true

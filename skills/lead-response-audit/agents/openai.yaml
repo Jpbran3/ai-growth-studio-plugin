@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lead Response Audit"
+  short_description: "Find slow replies and unowned contractor leads"
+  default_prompt: "Use $lead-response-audit to assess what happens after a new web, email or other inbound inquiry arrives and create a practical branded report."
+policy:
+  allow_implicit_invocation: true

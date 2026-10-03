@@ -1,0 +1,38 @@
+{
+  "name": "lead-response-audit",
+  "version": "0.1.1",
+  "description": "Diagnose ownership, substantive response, channel routing and staffed-hours gaps before a suitable inquiry becomes a booking.",
+  "author": {
+    "name": "AI Growth Studio",
+    "url": "https://www.theaigrowthstudio.com"
+  },
+  "homepage": "https://www.theaigrowthstudio.com/book",
+  "repository": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+  "keywords": [
+    "home-services",
+    "lead-response-audit",
+    "business-audit"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Lead Response Audit",
+    "shortDescription": "Find slow or unowned replies",
+    "longDescription": "Diagnose ownership, substantive response, channel routing and staffed-hours gaps before a suitable inquiry becomes a booking. For home service owners and teams. Delivers editable company-branded Markdown plus styled HTML, evidence labels and an internally usable implementation blueprint. Matches verified website branding or owner-selected trade palettes. Qualitative findings are valid when data is missing. Conditional financial opportunity is not guaranteed. Plans and drafts only; no live integrations, automatic outreach, calendar changes or monitoring. AI Growth Studio is the developer; optional implementation support is separate from the audit.",
+    "developerName": "AI Growth Studio",
+    "category": "Productivity",
+    "capabilities": [
+      "Find slow or unowned replies",
+      "Branded Markdown and HTML",
+      "Internal implementation blueprint"
+    ],
+    "websiteURL": "https://www.theaigrowthstudio.com/book",
+    "supportURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/issues",
+    "privacyPolicyURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/blob/main/PRIVACY.md",
+    "defaultPrompt": [
+      "Audit our slow replies and unowned website inquiries."
+    ],
+    "brandColor": "#E8804F",
+    "composerIcon": "./assets/aigrowthstudio.png",
+    "logo": "./assets/aigrowthstudio.png"
+  }
+}

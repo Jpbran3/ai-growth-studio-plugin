@@ -1,0 +1,6 @@
+interface:
+  display_name: "Maintenance Renewal Audit"
+  short_description: "Find recurring-service and renewal process gaps"
+  default_prompt: "Use $maintenance-renewal-audit to assess how due visits and expiring agreements are tracked today and create a practical branded report."
+policy:
+  allow_implicit_invocation: true

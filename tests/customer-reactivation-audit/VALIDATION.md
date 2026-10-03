@@ -1,0 +1,1 @@
+Creator instruction review of five domain-specific fixtures; not independent/native behavioral execution. Automated validation covers structure, reachable resources and report generation. Real conversational acceptance remains pending.

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Capacity & Scheduling Audit"
+  short_description: "Align contractor workload and deliverable slots"
+  default_prompt: "Use $capacity-scheduling-audit to assess where the workload or schedule becomes hardest to deliver and create a practical branded report."
+policy:
+  allow_implicit_invocation: true

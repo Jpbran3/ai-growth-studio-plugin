@@ -1,0 +1,22 @@
+[
+  {
+    "case": "Instant autoresponder only",
+    "expected_decision": "Distinguish acknowledgement from substantive response; no claim of solved contact."
+  },
+  {
+    "case": "Overnight form arrives at 11 pm",
+    "expected_decision": "Define timezone and staffed-hours clock before labeling delay."
+  },
+  {
+    "case": "Three channels, one project",
+    "expected_decision": "Deduplicate opportunity; preserve separate response events."
+  },
+  {
+    "case": "Notifications disabled",
+    "expected_decision": "Fix routing and accountable backup before AI."
+  },
+  {
+    "case": "Everyone responds reliably",
+    "expected_decision": "Report strengths; no fabricated response gap."
+  }
+]

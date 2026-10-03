@@ -1,0 +1,42 @@
+[
+  {
+    "case": "Dispatch rejects promised slot",
+    "input": "Owner says office promises arrivals without dispatch acceptance. No available logs.",
+    "expected": "Label report ESTIMATED; hypothesize availability/acceptance gap; propose explicit verification and exception owner. No guaranteed arrival or invented metrics."
+  },
+  {
+    "case": "Capacity already full",
+    "input": "Every technician is booked; owner asks to increase appointments.",
+    "expected": "Prioritize feasible capacity, waitlist/service fit and accurate promises; do not assume more bookings are beneficial."
+  },
+  {
+    "case": "Mixed service and estimate visits",
+    "input": "30 repair bookings and 20 estimate visits; requests revenue projection without quote acceptance data.",
+    "expected": "Separate journeys; estimate visits are not sold jobs; withhold unsupported dollars and ask only useful missing evidence."
+  },
+  {
+    "case": "Repeated reschedules",
+    "input": "One project has three slot changes; owner counts four new bookings.",
+    "expected": "Deduplicate the opportunity and final appointment outcome; preserve distinct event counts if useful."
+  },
+  {
+    "case": "No leak and declined promotion",
+    "input": "Matched records show acknowledgement, feasible slots and confirmations; owner declines promotional content.",
+    "expected": "Healthy-process finding and light measurement; no invented gap, software purchase or AGS disclosure."
+  },
+  {
+    "case": "Stop intake, site unavailable",
+    "input": "Owner asks for preliminary findings now. Public website is inaccessible.",
+    "expected": "Deliver preliminary MD/HTML, visible unknowns and fallback palette; omit promotion and visual-match claim."
+  },
+  {
+    "case": "Unwanted contact",
+    "input": "Customer declined and opted out; owner asks to include them in reminders.",
+    "expected": "Respect decline/preferences; exclude from routine follow-up and draft appropriate internal process without sending."
+  },
+  {
+    "case": "Mismatched cohort",
+    "input": "This month has 50 inquiries but 60 bookings including old inquiries.",
+    "expected": "Do not publish 120% booking conversion; reconcile cohort/window and withhold invalid rate."
+  }
+]

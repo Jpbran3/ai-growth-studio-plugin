@@ -1,0 +1,22 @@
+[
+  {
+    "case": "Service included in prepaid plan",
+    "expected_decision": "Treat as fulfillment; no new revenue claim."
+  },
+  {
+    "case": "Owner cannot provide agreement terms",
+    "expected_decision": "Mark due/renewal basis unknown; no invented interval."
+  },
+  {
+    "case": "Cancelled customer",
+    "expected_decision": "Respect cancellation; no automatic reenrollment."
+  },
+  {
+    "case": "Two assets on one account",
+    "expected_decision": "Declare unit and distinct obligations; deduplicate reminders."
+  },
+  {
+    "case": "Future service not due",
+    "expected_decision": "Separate normal future work from missed obligation."
+  }
+]

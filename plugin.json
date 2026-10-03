@@ -1,12 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ai-growth-studio",
-  "version": "0.2.1",
-  "description": "Practical growth workflows for home service businesses, starting with a lead-to-job revenue leak audit.",
+  "version": "0.5.1",
+  "description": "Ten focused home service audit skills covering lead handling, conversion, customer retention, delivery capacity and measurement.",
   "author": {
-    "name": "AI Growth Studio"
+    "name": "AI Growth Studio",
+    "url": "https://www.theaigrowthstudio.com"
   },
-  "homepage": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+  "homepage": "https://www.theaigrowthstudio.com/book",
   "repository": "https://github.com/Jpbran3/ai-growth-studio-plugin",
   "keywords": [
     "home-services",
@@ -18,22 +19,27 @@
       "interface": {
         "displayName": "AI Growth Studio",
         "shortDescription": "Find gaps from leads to jobs",
-        "longDescription": "Audit lead handling and job conversion for home service businesses. Work through inquiries, response, follow-up, booking, and completed jobs. Receive a company-branded Markdown report and styled HTML companion, with evidence labels, conditional opportunity estimates, and a practical implementation blueprint. The current version contains one revenue audit skill; additional skills are planned. No live CRM, phone, advertising, or scheduling connections are included.",
+        "longDescription": "Ten practical home service skills: Revenue Leak Audit, Missed Call Revenue Calculator, Unsold Estimate Audit, Booking & Handoff Audit, Lead Response Audit, Customer Reactivation Audit, Maintenance Renewal Audit, Review & Referral Audit, Capacity & Scheduling Audit and Conversion Measurement Audit. Generate company-branded Markdown and HTML with supported findings and an internal implementation blueprint. Verified website branding or owner-selected trade palettes. Conditional opportunity is not guaranteed. Plans and drafts only; no live integrations, automatic outreach, schedule changes or monitoring.",
         "developerName": "AI Growth Studio",
         "category": "Productivity",
         "capabilities": [
-          "Diagnose lead-to-job gaps",
-          "Create revenue audit reports",
-          "Plan practical improvements"
+          "Audit lead-to-job gaps",
+          "Plan response and handoffs",
+          "Review retention and renewals",
+          "Assess capacity and measurement",
+          "Generate branded Markdown and HTML"
         ],
-        "websiteURL": "https://github.com/Jpbran3/ai-growth-studio-plugin",
+        "websiteURL": "https://www.theaigrowthstudio.com/book",
         "supportURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/issues",
         "defaultPrompt": [
-          "Audit where my home service business loses leads before they become jobs."
+          "Audit where leads fall through the cracks in my home service business.",
+          "Diagnose slow replies and unowned web inquiries.",
+          "Review our past-customer reactivation process.",
+          "Check whether our workload fits qualified delivery capacity."
         ],
-        "brandColor": "#1A73E8",
-        "composerIcon": "./assets/icon.svg",
-        "logo": "./assets/icon.svg",
+        "brandColor": "#E8804F",
+        "composerIcon": "./assets/aigrowthstudio.png",
+        "logo": "./assets/aigrowthstudio.png",
         "privacyPolicyURL": "https://github.com/Jpbran3/ai-growth-studio-plugin/blob/main/PRIVACY.md"
       }
     }

@@ -1,0 +1,22 @@
+[
+  {
+    "case": "Ten-year-old list with unknown preferences",
+    "expected_decision": "Separate eligibility unknowns; do not authorize bulk sending."
+  },
+  {
+    "case": "Explicit opt-out",
+    "expected_decision": "Exclude from outreach plan; no workaround channel."
+  },
+  {
+    "case": "Current open quote",
+    "expected_decision": "Separate quote workflow; no duplicate recovery pool."
+  },
+  {
+    "case": "One-time installation, no current need",
+    "expected_decision": "Do not invent replacement urgency or opportunity."
+  },
+  {
+    "case": "Full schedule",
+    "expected_decision": "Capacity first; pilot timing is a recommendation, not a booked campaign."
+  }
+]

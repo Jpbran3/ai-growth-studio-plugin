@@ -1,0 +1,6 @@
+interface:
+  display_name: "Customer Reactivation Audit"
+  short_description: "Plan suitable past-customer reconnection"
+  default_prompt: "Use $customer-reactivation-audit to assess which past customers you want to reconnect with and what relevant service they may need and create a practical branded report."
+policy:
+  allow_implicit_invocation: true

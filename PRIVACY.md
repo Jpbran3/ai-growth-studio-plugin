@@ -1,10 +1,10 @@
 # AI Growth Studio Plugin — Privacy Notice
 
-Updated October 2, 2026. Applies to development version 0.2.1 of this skills-only plugin.
+Updated October 3, 2026. Applies to development version 0.5.1 of this skills-only plugin.
 
 ## What this plugin does
 
-The plugin supplies instructions, report templates, and a local calculation helper for auditing home service lead handling. It has no AI Growth Studio-hosted backend, analytics tracker, account system, or live connection to CRM, phone, advertising, or scheduling systems.
+The plugin supplies instructions, report templates, and local calculation and report helpers for auditing home service lead handling. It has no AI Growth Studio-hosted backend, analytics tracker, account system, or live connection to CRM, phone, advertising, or scheduling systems.
 
 ## Information you provide
 
@@ -27,3 +27,6 @@ If you separately contact AI Growth Studio for implementation support, that comm
 For questions about the plugin's behavior, open an issue at https://github.com/Jpbran3/ai-growth-studio-plugin/issues. Issues in this public repository are public; do not post customer details or credentials. For account data requests, use your AI host's support and privacy controls.
 
 Update this notice before adding any hosted data collection, external integrations, or new data flows.
+
+## Optional website visit
+Completed reports may include a voluntary implementation link to https://www.theaigrowthstudio.com/book. The plugin does not automatically open the page, submit a form, send report/customer data or append tracking identifiers. If you choose to visit or submit information on the website, that separate interaction is governed by the website's own practices. The plugin itself does not collect click analytics.

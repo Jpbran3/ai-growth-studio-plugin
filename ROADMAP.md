@@ -101,3 +101,9 @@ Verified planning sources on October 2, 2026:
 
 - [Plugin packaging and marketplaces](https://developers.openai.com/plugins/build/plugins)
 - [Plugin submission and publishing](https://developers.openai.com/plugins/deploy/submission)
+
+## October 3, 2026 progress
+Revenue Leak Audit, Missed Call Revenue Calculator, Unsold Estimate Audit and Booking & Handoff Audit are implemented locally. Booking skill fixture review and file checks are recorded separately; a fresh-host full conversational acceptance test and public submission remain outstanding. Customer reactivation planning and conversion measurement remain candidate additions.
+
+## October 3, 2026 — six additions
+Lead Response Audit, Customer Reactivation Audit, Maintenance Renewal Audit, Review & Referral Audit, Capacity & Scheduling Audit and Conversion Measurement Audit are implemented locally, bringing the package to ten skills. Scope is planning and drafts; live sending, billing, scheduling, account connections and monitoring remain outside the skills. Instruction-review fixtures and report-generation checks do not replace fresh-host end-to-end acceptance.

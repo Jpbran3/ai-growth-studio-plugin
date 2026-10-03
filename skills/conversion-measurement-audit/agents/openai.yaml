@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conversion Measurement Audit"
+  short_description: "Define reliable contractor funnel measurements"
+  default_prompt: "Use $conversion-measurement-audit to assess which numbers disagree or which conversion rate you need to trust and create a practical branded report."
+policy:
+  allow_implicit_invocation: true

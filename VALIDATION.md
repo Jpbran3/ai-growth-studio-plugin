@@ -1,29 +1,7 @@
-# Validation — development version 0.2.0
+# Validation — development version 0.5.0
 
-Validated on October 2, 2026.
+October 3, 2026. All ten skill entrypoints passed the official Skill Creator structure/scaffold validator. Relative references and invocation metadata resolve. The portable plugin manifest passed the retained schema. Each of the six new skill report helpers passed file-generation, all fallback palettes, owner-brand precedence, content-preservation, escaping, invalid styling/provenance and overwrite-refusal checks. Results are in `tests/portfolio-0.5.0-results.json`.
 
-## Completed
+Thirty domain-specific scenarios were reviewed against the new instructions by the creator. This is instruction review, not independent execution, native activation testing or a measured skill score. Fresh-host conversational intake through final report remains outstanding. Visual template checks and installed cache integrity are recorded in the release results. Public directory checks/review are not completed for this version.
 
-- Installed the plugin through `codex plugin add` from its repository marketplace.
-- Installation returned plugin ID `ai-growth-studio@ai-growth-studio-marketplace`, version `0.2.0`.
-- Compared the installed manifest, icon, and every skill resource with the repository source.
-- Checked all relative Markdown resource links in the installed skill.
-- Ran the Skill Creator frontmatter/scaffold validator: **passed**.
-- Verified the existing calculator caps deliverable opportunity at supplied capacity.
-- Verified unknown capacity yields low projection confidence.
-- Verified unknown inputs, invalid rates, and negative values are rejected.
-- Verified aggregation without disjoint-cohort evidence is rejected.
-
-## Still required
-
-- A fresh-chat behavioral test of the installed plugin from intake to final report.
-- The representative audit cases in the roadmap.
-- Visual verification of completed reports, not only the placeholder template.
-- OpenAI dashboard package checks and public directory review.
-- Verified publishing identity and any applicable policy attestations.
-
-These checks establish package integrity and selected arithmetic behavior. They do not establish public-directory approval or complete audit behavior.
-
-## Submission draft update — 0.2.1
-
-Version 0.2.0 uploaded successfully to the OpenAI dashboard. Automated checks requested an accessible privacy policy. Version 0.2.1 adds a notice describing the existing skills-only data flows and its public URL. Public submission and review remain pending.
+Existing arithmetic helpers and earlier tests were retained; no recovery rates, new benchmarks, live integrations or automatic sending were added. No customer data is packaged. OpenAI Directory review has not been completed for this version.
