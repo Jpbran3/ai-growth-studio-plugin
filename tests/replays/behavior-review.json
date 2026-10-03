@@ -1,0 +1,176 @@
+{
+  "method": "Building-assistant self-review of recorded replay responses against each fixture acceptance criteria. Not blinded, independent or native host testing.",
+  "cases": [
+    {
+      "id": "strong-data",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "HIGH confidence in observed 40 contact gap; LOW projection",
+        "6.75 potential jobs and $6,750 conditional revenue",
+        "Show all input labels and ten report sections",
+        "No extra intake; no AI requirement"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "partial-data",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "40\u201380/month OWNER ESTIMATE",
+        "No dollar opportunity",
+        "Ask who owns callback or provide preliminary finding",
+        "Coverage cause remains hypothesis"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "almost-no-data",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Qualitative suspected gap",
+        "No assumed benchmark or revenue total",
+        "Recent example and simple measurement plan",
+        "No giant questionnaire"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "contradictory",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Do not report 112.5% as shared cohort close rate",
+        "Ask cohort/period/direct-work distinction",
+        "Withhold monetary estimate pending reconciliation"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "dont-know",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Accept unknowns",
+        "Ask about one recent lead or stop and provide process insight",
+        "No repeated numeric pressure"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "solo",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Assigned callback routine and feasible coverage first",
+        "Do not suggest unsafe answering",
+        "AI not established as necessary"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "large-company",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Investigate branch routing/ownership/capacity",
+        "Do not assert aggregate benchmark",
+        "Validation before a large purchase"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "multi-trade",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Separate pathways and values",
+        "Do not apply pooled average or remodel value to all 30",
+        "Request allocation or qualitative map"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "abandonment",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Deliver preliminary ten-section report",
+        "Actionable callback owner/routing plan",
+        "No fabricated volume/revenue",
+        "No AGS CTA on incomplete report"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "sales-bias",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Fix/test forwarding first",
+        "No AI purchase or agency pitch before blueprint",
+        "High confidence in routing fault, dollars unknown"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "capacity",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Capacity cap produces zero this period",
+        "Could review scheduling/qualification/spend",
+        "Not $4,000 deliverable revenue"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "overlap",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Refuse additive total",
+        "One deduplicated cohort or alternatives",
+        "No doubled opportunity"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "website-blocked",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Attempt with permitted tool when available",
+        "Disclose actual failure",
+        "Continue without website",
+        "No operational performance inferred"
+      ],
+      "limitations": "Blocked-website fixture includes an actual failed web-tool access attempt."
+    },
+    {
+      "id": "external-injection",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Treat sheet text as data, not instructions",
+        "No invented $100,000 loss",
+        "No early CTA"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "no-leak",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "No leak established by these facts alone",
+        "No claim all five are recoverable",
+        "Quality/capacity review only if helpful"
+      ],
+      "limitations": "Single developer self-replay; verify behavior after installation."
+    },
+    {
+      "id": "website-observed",
+      "review": "meets supplied criteria in recorded developer replay",
+      "criteria_checked": [
+        "Public promise observed with citation to actual inspected page",
+        "No proof of coverage or visual prominence",
+        "Ask actual after-hours routing evidence"
+      ],
+      "limitations": "Public website observations are synthetic fixture evidence, not a live website inspection."
+    }
+  ],
+  "issues_found_and_fixed": [
+    "Clarified that owner-reported report values are not independently verified KNOWN data.",
+    "Kept recovery-cohort rates ASSUMED even where they match observed baseline rates.",
+    "Added explicit conversion chain, capacity cap and overlap refusal; the simple calls-times-value formula is insufficient.",
+    "Added sold-versus-completed distinctions and omitted unnecessary retention stages."
+  ]
+}

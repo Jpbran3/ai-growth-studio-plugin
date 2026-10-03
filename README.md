@@ -2,7 +2,7 @@
 
 Reusable skills for home service businesses, starting with a conversational revenue leak audit. This repository is designed to grow into a plugin containing multiple focused skills.
 
-**Status:** development package, version 0.2.1. The revenue audit skill has been installed and used to generate a report template locally. Local plugin installation, skill structure, installed resources, and selected calculation behavior have been verified. Full audit behavior and public directory submission still need validation. Publishing this repository does not publish a listing in ChatGPT or Codex.
+**Status:** development package, version 0.3.1. The revenue audit skill has been installed and used to generate a report template locally. Local plugin installation, skill structure, installed resources, and selected calculation behavior have been verified. Full audit behavior and public directory submission still need validation. Publishing this repository does not publish a listing in ChatGPT or Codex.
 
 ## Included today
 
@@ -32,7 +32,7 @@ Example opening:
 
 > Audit the lead-to-job process at my plumbing business. We receive calls and website inquiries, and I suspect we miss some leads while working. Ask me the questions needed to find the gaps.
 
-For a layout preview, download [`examples/revenue-leak-audit-template.html`](examples/revenue-leak-audit-template.html) and open it in a browser. It contains placeholders, not actual business findings.
+For a layout preview, download [`examples/revenue-leak-audit-template.html`](examples/revenue-leak-audit-template.html) and open it in a browser. It contains a labeled synthetic developer example, not customer findings.
 
 ## Repository structure
 
@@ -69,3 +69,10 @@ Official references:
 - [Upload, submit, and publish](https://developers.openai.com/plugins/deploy/submission)
 
 Submission requirements can change. Verify current requirements before preparing a public release.
+
+## Local version 0.3.0 — portfolio and report styling
+Three self-contained audit skills are now included. Reports save `.md` plus `.html`; explicit owner branding wins, otherwise use verified public website style. No/unverifiable website fallback: plumbing blue #1565C0, HVAC light blue #62B5E5, med-spa Rolex-style green #006039, other/mixed-trade soft blue #7BAFD4. Arial/Helvetica/sans-serif fallback; no licensed font download. This portfolio update originated locally; public-directory submission remains pending.
+
+## Review update 0.3.1
+
+Preserves the local three-skill portfolio and adds the completed Revenue Leak Audit package’s regression suite to this repository. Complete and preliminary audits explicitly require actual Markdown and matching HTML files. Run `python3 scripts/test.py` (see `tests/README.md` for validation-only dependencies). Build runtime-only review ZIPs with `python3 scripts/package.py --output-dir /path/to/review-artifacts`. No account activation or public-directory approval is established by these checks.

@@ -1,0 +1,42 @@
+{
+  "period": "2026-09",
+  "cohort": "unique unresolved qualified prospects",
+  "currency": "USD",
+  "inputs": {
+    "eligible_leads": {
+      "value": 40,
+      "status": "KNOWN",
+      "basis": "Synthetic business-record fixture"
+    },
+    "recovery_rate": {
+      "value": 0.5,
+      "status": "KNOWN",
+      "basis": "Synthetic business-record fixture"
+    },
+    "booking_rate": {
+      "value": 0.5,
+      "status": "KNOWN",
+      "basis": "Synthetic business-record fixture"
+    },
+    "completion_rate": {
+      "value": 0.8,
+      "status": "KNOWN",
+      "basis": "Synthetic business-record fixture"
+    },
+    "sale_rate": {
+      "value": 0.5,
+      "status": "KNOWN",
+      "basis": "Synthetic business-record fixture"
+    },
+    "job_value": {
+      "value": 1000,
+      "status": "KNOWN",
+      "basis": "Synthetic business-record fixture"
+    },
+    "capacity_jobs": {
+      "value": 10,
+      "status": "KNOWN",
+      "basis": "Synthetic business-record fixture"
+    }
+  }
+}

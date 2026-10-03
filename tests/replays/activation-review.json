@@ -1,0 +1,355 @@
+{
+  "method": "Building assistant semantic review of all 70 prompts against completed skill description; no native host routing exercised. Not an independent or automatic-discovery score.",
+  "decisions": [
+    {
+      "id": "D01",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D02",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D03",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D04",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D05",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D06",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D07",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D08",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D09",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D10",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D11",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D12",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D13",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D14",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D15",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D16",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D17",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D18",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D19",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "D20",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I01",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I02",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I03",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I04",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I05",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I06",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I07",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I08",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I09",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I10",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I11",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I12",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I13",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I14",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I15",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I16",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I17",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I18",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I19",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I20",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I21",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I22",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I23",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I24",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I25",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I26",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I27",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I28",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I29",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "I30",
+      "observed_decision": true,
+      "reason": "Home-service lead-handling or conversion diagnosis."
+    },
+    {
+      "id": "N01",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N02",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N03",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N04",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N05",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N06",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N07",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N08",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N09",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N10",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N11",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N12",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N13",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N14",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N15",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N16",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N17",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N18",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N19",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    },
+    {
+      "id": "N20",
+      "observed_decision": false,
+      "reason": "No home-service business lead-handling audit intent."
+    }
+  ]
+}
