@@ -5,7 +5,7 @@
     "subtitle": "Find lead-to-job gaps",
     "local_source": "plugins/revenue-leak-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -16,7 +16,7 @@
     "subtitle": "Assess missed-call opportunity",
     "local_source": "plugins/missed-call-revenue-calculator",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -27,7 +27,7 @@
     "subtitle": "Find quote follow-up gaps",
     "local_source": "plugins/unsold-estimate-follow-up-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -38,7 +38,7 @@
     "subtitle": "Fix booking and team handoffs",
     "local_source": "plugins/booking-handoff-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -49,7 +49,7 @@
     "subtitle": "Find slow or unowned replies",
     "local_source": "plugins/lead-response-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -60,7 +60,7 @@
     "subtitle": "Plan due service and renewals",
     "local_source": "plugins/customer-reactivation-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -71,7 +71,7 @@
     "subtitle": "Plan due service and renewals",
     "local_source": "plugins/maintenance-renewal-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -82,7 +82,7 @@
     "subtitle": "Improve post-job requests",
     "local_source": "plugins/review-referral-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -93,7 +93,7 @@
     "subtitle": "Match workload to capacity",
     "local_source": "plugins/capacity-scheduling-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
@@ -104,7 +104,7 @@
     "subtitle": "Make funnel numbers reliable",
     "local_source": "plugins/conversion-measurement-audit",
     "website_status": "owner provided; accessible",
-    "distribution": "not submitted",
+    "distribution": "OpenAI: in review, not published; GitHub: public release v0.5.1",
     "website_url": "https://www.theaigrowthstudio.com/book",
     "logo": "assets/aigrowthstudio.png",
     "version": "0.1.1"
